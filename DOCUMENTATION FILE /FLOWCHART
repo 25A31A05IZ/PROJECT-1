@@ -1,0 +1,41 @@
+Flowchart
+
+             START
+               |
+               v
+   Generate Random Number
+               |
+               v
+      Set Attempts = 5
+               |
+               v
+      Enter User Guess
+               |
+               v
+    Is Guess == Number?
+         /         \
+       YES          NO
+       |             |
+       v             v
+ Display Success   Check
+    Message      Guess < Number?
+                     /      \
+                   YES       NO
+                   |          |
+                   v          v
+             Display      Display
+             Too Low      Too High
+                   \        /
+                    v      v
+            Show Remaining Attempts
+                       |
+                       v
+              Attempts Over?
+                  /      \
+                NO        YES
+                |          |
+                v          v
+           Repeat Loop   Game Over
+                             |
+                             v
+                            STOP
