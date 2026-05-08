@@ -1,0 +1,19 @@
+Algorithm
+
+Step1: Start the program.
+Step2: Generate a random number between 1 and 100.
+Step3: Set maximum attempts to 5.
+Step4: Ask the user to enter a guess.
+Step5: Compare the guessed number with the generated number.
+Step6: If the guess is correct:
+Step:7 Display success message.
+Step8: End the program.
+Step9: If the guess is smaller:
+Display “Too low”.
+Step10: If the guess is greater:
+Display “Too high”.
+Step11: Display remaining attempts.
+Step12: Repeat steps 4–9 until attempts become 5.
+Step13: If all attempts are used:
+Display “Game Over” and reveal the correct number.
+Step14: Stop the program.
