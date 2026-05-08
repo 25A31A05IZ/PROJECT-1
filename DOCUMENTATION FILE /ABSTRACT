@@ -1,0 +1,7 @@
+Abstract
+
+The “Guess The Number” project is a simple console-based game developed using the C programming language.
+In this game, the computer generates a random number between 1 and 100, and the player has to guess the correct number
+within 5 attempts. After every guess, the program gives hints whether the guessed number is too high or too low. 
+The project demonstrates the use of loops, conditional statements, random number generation, and user interaction in C programming. 
+This project is useful for beginners to understand basic programming concepts and game logic implementation.
