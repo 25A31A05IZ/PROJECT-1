@@ -1,0 +1,11 @@
+Introduction
+
+Guess The Number is a mini-game application written in C language.
+The main objective of this project is to improve logical thinking and programming skills.
+The game creates excitement for users by generating a random number and giving limited chances to guess it correctly.
+The project uses:
+Random number generation
+Conditional statements
+Loops
+User input handling
+This project is beginner-friendly and helps students understand the fundamentals of C programming.
