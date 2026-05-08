@@ -1,0 +1,11 @@
+Methodology
+
+The project follows a simple gaming methodology:
+1.The system generates a random number using rand() function.
+2.The user enters guesses through keyboard input.
+3.The program checks the guess using conditional statements.
+4.Feedback is provided after every attempt.
+5.The loop continues until:
+The user guesses correctly, or
+All 5 attempts are completed.
+6.The final result is displayed.
